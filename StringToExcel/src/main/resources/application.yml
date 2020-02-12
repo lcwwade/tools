@@ -1,0 +1,8 @@
+server:
+  port: 9999
+
+# 日志配置
+logging:
+  level:
+    com.zero: INFO
+  config: classpath:logback.xml

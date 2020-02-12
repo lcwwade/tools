@@ -1,0 +1,10 @@
+
+__________
+\____    /___________  ____
+  /     // __ \_  __ \/  _ \
+ /     /\  ___/|  | \(  <_> )
+/_______ \___  >__|   \____/
+        \/   \/
+
+${AnsiColor.YELLOW}:: Spring Boot ::        ${AnsiColor.WHITE}(v${spring-boot.version})
+${AnsiColor.YELLOW}:: spring-boot-zero
